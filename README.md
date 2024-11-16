@@ -1,4 +1,4 @@
 ## Biped Gymnastics
 
 ### Biped Walking
-![Biped Walking Animation](Demos/biped_walking.gif)
+![Biped Walking Animation](Demos/Biped_Walking.gif)
